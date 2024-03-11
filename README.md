@@ -1,4 +1,4 @@
-In this project, I considered background subtraction techniques to identify foreground objects and annotate them by adjusting contrast and blurring the background.
+In this project, I considered background subtraction techniques to identify foreground objects and annotate them by reducing contrast and blurring the background.
 
 Results:
 
